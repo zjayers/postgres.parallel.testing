@@ -1,0 +1,54 @@
+GET http://localhost:3005/users
+
+<> 2020-11-19T110229.200.json
+
+###
+
+GET http://localhost:3005/users
+
+<> 2020-11-19T110003.200.json
+
+###
+
+GET http://localhost:3005/users
+
+<> 2020-11-19T105917.200.json
+
+###
+
+GET http://localhost:3005/users
+Accept: application/json
+
+<> 2020-11-19T105902.200.json
+
+###
+
+GET http://localhost:3005/users
+Accept: application/json
+
+<> 2020-11-19T105831.200.json
+
+###
+
+GET http://localhost:3005/users
+
+<> 2020-11-19T105759.200.json
+
+###
+
+GET http://localhost:3005/users
+
+<> 2020-11-19T105741.200.json
+
+###
+
+GET http://localhost:3005/users
+
+<> 2020-11-19T105721.200.json
+
+###
+
+GET http://localhost:3005/users
+
+###
+
