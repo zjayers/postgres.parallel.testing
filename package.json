@@ -17,7 +17,7 @@
     "@types/pg": "^7.14.7",
     "@types/supertest": "^2.0.10",
     "dedent": "^0.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^26.6.3",
     "node-pg-migrate": "^5.9.0",
     "nodemon": "^2.0.6",
